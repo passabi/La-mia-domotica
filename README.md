@@ -1,15 +1,15 @@
 # La-mia-domotica
 
   Questo progetto rappresenta un modellino di una villa in scala 1:35, dotato di un sistema domotico intelligente progettato per semplificare la gestione e il controllo degli impianti attraverso un’applicazione Bluetooth.
-
-
-
+ 
+ 
+ 
 -Arduino
 
   Per la gestione del sistema ho utilizzato Arduino Mega 2560, una scheda programmabile con microcontrollore integrato. La scelta è stata motivata dalla maggiore capacità di memoria rispetto ad altre schede Arduino, che ha consentito di integrare un numero superiore di sensori e componenti. Questo ha permesso di ottimizzare la progettazione e garantire un elevato livello di funzionalità.
-
-
-
+ 
+ 
+ 
 -Applicazione BT
 
   L’applicazione, sviluppata con MIT App Inventor 2, consente una connessione diretta con Arduino tramite il modulo Bluetooth HC-05. L’interfaccia utente è stata progettata per essere intuitiva e funzionale, semplificando il controllo di diversi aspetti del sistema. Dopo il login, che funge da chiave di accesso all’abitazione, l’utente viene accolto da un menù situato nella parte superiore dello schermo, da cui è possibile gestire l’illuminazione della casa, il giardino, i sensori, o effettuare il logout.
