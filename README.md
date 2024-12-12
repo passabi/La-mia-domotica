@@ -6,9 +6,9 @@
 
   L’applicazione, sviluppata con MIT App Inventor 2, consente una connessione diretta con Arduino tramite il modulo Bluetooth HC-05. L’interfaccia utente è stata progettata per essere intuitiva e funzionale, semplificando il controllo di diversi aspetti del sistema. Dopo il login, che funge da chiave di accesso all’abitazione, l’utente viene accolto da un menù situato nella parte superiore dello schermo, da cui è possibile gestire l’illuminazione della casa, il giardino, i sensori, o effettuare il logout.
 
-  Il primo screen “Gestione Impianto Luci” consente di selezionare le stanze per accendere o spegnere le luci, con l’opzione di abilitare effetti luminosi per aggiungere dinamismo al sistema di illuminazione. 
-  Nella sezione “Giardino e Porta Principale” è possibile accedere ai sensori esterni, attivare la fontanella e i LED decorativi, nonché controllare l’apertura e la chiusura della porta d’ingresso, migliorando sicurezza e automazione. 
-  La terza area “Gestione Sensori della Struttura" permette invece di abilitare diversi sensori, tra cui rilevatori di movimento, gas, fiamma, temperatura e umidità, garantendo un maggiore livello di sicurezza. Sono inoltre presenti sensori di distanza e luminosità, utili per automatizzare l’illuminazione e altre funzionalità avanzate.
+-Il primo screen “Gestione Impianto Luci” consente di selezionare le stanze per accendere o spegnere le luci, con l’opzione di abilitare effetti luminosi per aggiungere dinamismo al sistema di illuminazione. 
+-Nella sezione “Giardino e Porta Principale” è possibile accedere ai sensori esterni, attivare la fontanella e i LED decorativi, nonché controllare l’apertura e la chiusura della porta d’ingresso, migliorando sicurezza e automazione. 
+-La terza area “Gestione Sensori della Struttura" permette invece di abilitare diversi sensori, tra cui rilevatori di movimento, gas, fiamma, temperatura e umidità, garantendo un maggiore livello di sicurezza. Sono inoltre presenti sensori di distanza e luminosità, utili per automatizzare l’illuminazione e altre funzionalità avanzate.
 
   Per arricchire ulteriormente l’interazione, ho integrato comandi vocali ispirati agli assistenti virtuali come Alexa, migliorando l’efficienza e il controllo del sistema. Questa funzionalità consente di interagire in modo rapido e intuitivo, rendendo l’app uno strumento versatile e user-friendly, capace di centralizzare e semplificare la gestione di ogni elemento del progetto.
 
