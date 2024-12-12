@@ -3,9 +3,11 @@
   Questo progetto rappresenta un modellino di una villa in scala 1:35, dotato di un sistema domotico intelligente progettato per semplificare la gestione e il controllo degli impianti attraverso un’applicazione Bluetooth.
 
 
+
 -Arduino
 
   Per la gestione del sistema ho utilizzato Arduino Mega 2560, una scheda programmabile con microcontrollore integrato. La scelta è stata motivata dalla sua maggiore capacità di memoria rispetto ad altre schede Arduino, che ha consentito di integrare un numero superiore di sensori e componenti, tra cui i lampioni e la fontanella presenti nel giardino. Questo ha permesso di ottimizzare la progettazione e garantire un elevato livello di funzionalità.
+
 
 
 -Applicazione BT
@@ -19,6 +21,7 @@
   La terza area “Gestione Sensori della Struttura" permette invece di abilitare diversi sensori, tra cui rilevatori di movimento, gas, fiamma, temperatura e umidità, garantendo un maggiore livello di sicurezza. Sono inoltre presenti sensori di distanza e luminosità, utili per automatizzare l’illuminazione e altre funzionalità avanzate.
 
   Per arricchire ulteriormente l’interazione, ho integrato comandi vocali ispirati agli assistenti virtuali come Alexa, migliorando l’efficienza e il controllo del sistema. Questa funzionalità consente di interagire in modo rapido e intuitivo, rendendo l’app uno strumento versatile e user-friendly, capace di centralizzare e semplificare la gestione di ogni elemento del progetto.
+
 
 
 -Modello 3D con AutoCAD
