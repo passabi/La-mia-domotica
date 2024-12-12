@@ -6,7 +6,7 @@
 
 -Arduino
 
-  Per la gestione del sistema ho utilizzato Arduino Mega 2560, una scheda programmabile con microcontrollore integrato. La scelta è stata motivata dalla sua maggiore capacità di memoria rispetto ad altre schede Arduino, che ha consentito di integrare un numero superiore di sensori e componenti, tra cui i lampioni e la fontanella presenti nel giardino. Questo ha permesso di ottimizzare la progettazione e garantire un elevato livello di funzionalità.
+  Per la gestione del sistema ho utilizzato Arduino Mega 2560, una scheda programmabile con microcontrollore integrato. La scelta è stata motivata dalla maggiore capacità di memoria rispetto ad altre schede Arduino, che ha consentito di integrare un numero superiore di sensori e componenti. Questo ha permesso di ottimizzare la progettazione e garantire un elevato livello di funzionalità.
 
 
 
